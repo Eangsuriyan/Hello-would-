@@ -1,4 +1,4 @@
-echo "# Hello-would-" >> README.md 
+echo "# Hello-would-Suriyan" >> README.md 
 git init 
 git add README.md 
 git commit -m "คอมมิทครั้งแรก" 
